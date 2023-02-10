@@ -100,6 +100,7 @@ h3 {
 #pricing {
     padding-top: 180px;
     text-align: center;
+    overflow-x: hidden;
 }
 
 .pricing-column {
